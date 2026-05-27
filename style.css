@@ -1,0 +1,7 @@
+body { background: #82fbf; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 34px; display: flex; }
+.block-sms-0 { color: #3ff969; font-size: 17px; margin-bottom: 5px; }
+.block-validator-1 { color: #2c1152; font-size: 15px; margin-bottom: 5px; }
+.block-invoice-2 { color: #3f0368; font-size: 17px; margin-bottom: 5px; }
+.block-token-3 { color: #461b06; font-size: 17px; margin-bottom: 5px; }
+.block-session-4 { color: #f072d9; font-size: 17px; margin-bottom: 5px; }
